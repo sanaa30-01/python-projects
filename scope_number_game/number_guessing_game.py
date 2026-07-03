@@ -20,6 +20,8 @@ if chosen_difficulty == "easy":
 elif chosen_difficulty == "hard":
     attempt = 5
 
+#game loop
+
 while attempts > 0:
     print(f"You have {attempts} attempts remaining to guess the number.")
     guess = int(input("Make a guess: "))
