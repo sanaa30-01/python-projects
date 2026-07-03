@@ -1,0 +1,10 @@
+Number Guessing Game To Do:
+1. create ascii file 
+2. import ascii art
+3. welcome message and art 
+4. randomize number, make computer pick from 1 to 100
+5. program for difficulty
+6. for easy difficulty level - 10 attempts 
+7. check for if the input number is greater than or lesser than the randomly chosen number 
+8. when the number of tries get over, it's game over 
+9. for hard difficulty level - 5 attempts 
